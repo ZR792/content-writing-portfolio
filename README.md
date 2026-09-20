@@ -93,3 +93,5 @@ Have an idea that needs the right words? Let’s talk.
 ---
 
 Created to showcase my writing, experience, and approach to meaningful communication.
+
+**Live Link:** [Portfolio](https://zainab-content-writing-portfolio.netlify.app/)
